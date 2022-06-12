@@ -1,0 +1,16 @@
+Who is responsible for unification of the German states?, What is the Capital of italy? , What Color had the same name as red? , In what year did world war 1 end?, Which band had the singer kurt cobain?, Who also known the King of POP?, Who is Batman's Sidekick?, How many Prime Number between 1 and 1000?, In which year India got it's independence?, Which of the following in the Neutral PH 
+(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th , (a) Delhi  (b) Paris (c) Rome (d) Berlin , (a) orange  (b) pink (c) Bule (d) Green , (a) 2020  (b) 2077 (c) 1918 (d) 1945, (a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath, (a) Prince (b) Pewdiepie (C) M.jackson (d) Mario, (a) Ironman (b) Robin (c) Dante (d) Gerlt, (a) 1 (b) 7 (c) 0 (d) 168, (a) 1111 (b)1947 (c)1952 (d) 1717, (a) 7 (b) 0 (c) 14 (d) 5
+a, c, a, c, a, c, b, d, b, a
+
+
+
+
+**************************************************************READ ME************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+                                    # PUT ALL QUESTIONS EACH SEPERATED BY (,) IN LINE 1
+                                    # PUT ALL OPTIONS EACH SEPERATED BY (,) IN LINE 2
+                                    # PUT ALL ANSWERS EACH SEPERATED BY (,) IN LINE 3
+                                    # FOR EVERY QUESTION PUT A ANSWERS AND A SET OF OPTIONS 
+                                    # SAVE (CRTL + S) BEFORE EXITING THIS FILE TO SAVE YOUR CHANGES
+**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+

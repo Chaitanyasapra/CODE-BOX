@@ -1,0 +1,430 @@
+Time of Starting the test was: 2022-01-23 09:51:40.766101
+Time of Submission of Test: 2022-01-23 09:52:57.928625 
+Total Time Taken: 0:01:17.162524
+The marks gotten were: 10/10
+The percentage of the marks was: 100.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+
+Time of Starting the test was: 2022-01-23 09:53:47.254175
+Time of Submission of Test: 2022-01-23 09:53:49.811865 
+Total Time Taken: 0:00:02.557690
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 09:57:35.227937
+Time of Submission of Test: 2022-01-23 09:57:38.174362 
+Total Time Taken: 0:00:02.946425
+The marks gotten were: 0/1
+The percentage of the marks was: 0.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: [0]
+
+Time of Starting the test was: 2022-01-23 10:01:22.376206
+Time of Submission of Test: 2022-01-23 10:01:28.719039 
+Total Time Taken: 0:00:06.342833
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 15:51:19.164554
+Time of Submission of Test: 2022-01-23 15:52:45.710015 
+Total Time Taken: 0:01:26.545461
+The marks gotten were: 10/10
+The percentage of the marks was: 100.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+Time of Starting the test was: 2022-01-23 15:52:55.089396
+Time of Submission of Test: 2022-01-23 15:53:51.267472 
+Total Time Taken: 0:00:56.178076
+The marks gotten were: 9/10
+The percentage of the marks was: 90.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: [0, 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+Time of Starting the test was: 2022-01-23 15:55:10.684327
+Time of Submission of Test: 2022-01-23 15:56:00.584314 
+Total Time Taken: 0:00:49.899987
+The marks gotten were: 9/10
+The percentage of the marks was: 90.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a']
+
+Time of Starting the test was: 2022-01-23 15:56:32.198424
+Time of Submission of Test: 2022-01-23 15:57:10.654192 
+Total Time Taken: 0:00:38.455768
+The marks gotten were: 9/10
+The percentage of the marks was: 90.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0]
+
+Time of Starting the test was: 2022-01-23 15:57:27.074266
+Time of Submission of Test: 2022-01-23 15:58:09.357280 
+Total Time Taken: 0:00:42.283014
+The marks gotten were: 9/10
+The percentage of the marks was: 90.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0]
+
+Time of Starting the test was: 2022-01-23 16:01:26.728843
+Time of Submission of Test: 2022-01-23 16:02:41.190616 
+Total Time Taken: 0:01:14.461773
+The marks gotten were: 8/10
+The percentage of the marks was: 80.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:03:03.524387
+Time of Submission of Test: 2022-01-23 16:05:23.804388 
+Total Time Taken: 0:02:20.280001
+The marks gotten were: 8/10
+The percentage of the marks was: 80.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:06:57.483249
+Time of Submission of Test: 2022-01-23 16:06:59.859527 
+Total Time Taken: 0:00:02.376278
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:08:11.994150
+Time of Submission of Test: 2022-01-23 16:08:15.201529 
+Total Time Taken: 0:00:03.207379
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:08:29.301123
+Time of Submission of Test: 2022-01-23 16:08:32.024147 
+Total Time Taken: 0:00:02.723024
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:08:41.223585
+Time of Submission of Test: 2022-01-23 16:08:43.665698 
+Total Time Taken: 0:00:02.442113
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:08:57.151824
+Time of Submission of Test: 2022-01-23 16:08:59.856937 
+Total Time Taken: 0:00:02.705113
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:10:15.367162
+Time of Submission of Test: 2022-01-23 16:10:37.324841 
+Total Time Taken: 0:00:21.957679
+The marks gotten were: 5/10
+The percentage of the marks was: 50.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:11:11.371006
+Time of Submission of Test: 2022-01-23 16:11:37.635823 
+Total Time Taken: 0:00:26.264817
+The marks gotten were: 5/10
+The percentage of the marks was: 50.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:12:56.355291
+Time of Submission of Test: 2022-01-23 16:12:59.104660 
+Total Time Taken: 0:00:02.749369
+The marks gotten were: 0/1
+The percentage of the marks was: 0.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: [0]
+
+Time of Starting the test was: 2022-01-23 16:13:18.861525
+Time of Submission of Test: 2022-01-23 16:13:23.627515 
+Total Time Taken: 0:00:04.765990
+The marks gotten were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-01-23 16:13:57.632736
+Time of Submission of Test: 2022-01-23 16:13:59.899390 
+Total Time Taken: 0:00:02.266654
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:14:15.698545
+Time of Submission of Test: 2022-01-23 16:14:25.405616 
+Total Time Taken: 0:00:09.707071
+The marks gotten were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-01-23 16:16:33.380324
+Time of Submission of Test: 2022-01-23 16:17:02.539961 
+Total Time Taken: 0:00:29.159637
+The marks gotten were: 6/10
+The percentage of the marks was: 60.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:17:18.062405
+Time of Submission of Test: 2022-01-23 16:18:01.289891 
+Total Time Taken: 0:00:43.227486
+The marks gotten were: 8/10
+The percentage of the marks was: 80.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:19:54.161235
+Time of Submission of Test: 2022-01-23 16:20:35.080467 
+Total Time Taken: 0:00:40.919232
+The marks gotten were: 9/10
+The percentage of the marks was: 90.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 0]
+
+Time of Starting the test was: 2022-01-23 16:22:12.943065
+Time of Submission of Test: 2022-01-23 16:23:17.567816 
+Total Time Taken: 0:01:04.624751
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-23 16:24:17.111123
+Time of Submission of Test: 2022-01-23 16:25:17.161730 
+Total Time Taken: 0:01:00.050607
+The marks gotten were: 10/10
+The percentage of the marks was: 100.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+Time of Starting the test was: 2022-01-24 20:16:02.541243
+Time of Submission of Test: 2022-01-24 20:16:22.793164 
+Total Time Taken: 0:00:20.251921
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-30 19:52:38.186750
+Time of Submission of Test: 2022-01-30 19:52:45.185067 
+Total Time Taken: 0:00:06.998317
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-01-30 19:53:16.539835
+Time of Submission of Test: 2022-01-30 19:54:58.222178 
+Total Time Taken: 0:01:41.682343
+The marks gotten were: 10/10
+The percentage of the marks was: 100.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+Time of Starting the test was: 2022-01-30 19:55:41.795805
+Time of Submission of Test: 2022-01-30 19:55:46.872769 
+Total Time Taken: 0:00:05.076964
+The marks gotten were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-02-08 10:02:19.451384
+Time of Submission of Test: 2022-02-08 10:02:22.824127 
+Total Time Taken: 0:00:03.372743
+The marks gotten were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-08 10:03:28.140054
+Time of Submission of Test: 2022-02-08 10:03:31.641246 
+Total Time Taken: 0:00:03.501192
+The marks gotten were: 0/1
+The percentage of the marks was: 0.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: [0]
+
+Time of Starting the test was: 2022-02-15 22:13:14.645448
+Time of Submission of Test: 2022-02-15 22:13:29.096765 
+Total Time Taken: 0:00:14.451317
+The marks gotten were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-02-15 22:15:32.365952
+Time of Submission of Test: 2022-02-15 22:15:37.021107 
+Total Time Taken: 0:00:04.655155
+The marks gotten were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-02-19 20:31:03.774343
+Time of Submission of Test: 2022-02-19 20:32:38.448211 
+Total Time Taken: 0:01:34.673868
+The marks obtained were: 1/10
+The percentage of the marks was: 10.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-20 16:16:16.176875
+Time of Submission of Test: 2022-02-20 16:17:24.551418 
+Total Time Taken: 0:01:08.374543
+The marks obtained were: 1/10
+The percentage of the marks was: 10.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-20 16:17:47.905695
+Time of Submission of Test: 2022-02-20 16:19:36.482697 
+Total Time Taken: 0:01:48.577002
+The marks obtained were: 1/10
+The percentage of the marks was: 10.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-20 22:37:20.974637
+Time of Submission of Test: 2022-02-20 22:39:26.418360 
+Total Time Taken: 0:02:05.443723
+The marks obtained were: 1/10
+The percentage of the marks was: 10.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-20 22:40:04.035862
+Time of Submission of Test: 2022-02-20 22:44:29.903687 
+Total Time Taken: 0:04:25.867825
+The marks obtained were: 1/10
+The percentage of the marks was: 10.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Time of Starting the test was: 2022-02-20 22:47:08.290355
+Time of Submission of Test: 2022-02-20 22:48:17.544468 
+Total Time Taken: 0:01:09.254113
+The marks obtained were: 10/10
+The percentage of the marks was: 100.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a']
+
+Time of Starting the test was: 2022-02-20 22:49:33.465155
+Time of Submission of Test: 2022-02-20 22:49:38.964700 
+Total Time Taken: 0:00:05.499545
+The marks obtained were: 1/1
+The percentage of the marks was: 100.0
+The Question were: [''] 
+The options Given were: ['']
+The correct answers were: [''] 
+The answers given were: ['']
+
+Time of Starting the test was: 2022-05-13 15:44:02.477283
+Time of Submission of Test: 2022-05-13 15:47:23.263688 
+Total Time Taken: 0:03:20.786405
+The marks obtained were: 0/10
+The percentage of the marks was: 0.0
+The Question were: ['Who is responsible for unification of the German states?', 'What is the Capital of italy? ', 'What Color had the same name as red? ', 'In what year did world war 1 end?', 'Which band had the singer kurt cobain?', 'Who also known the King of POP?', "Who is Batman's Sidekick?", 'How many Prime Number between 1 and 1000?', "In which year India got it's independence?", 'Which of the following in the Neutral PH '] 
+The options Given were: ['(a) Bismark  (b) Hitler  (c) Alucard  (d) Peter the 6th ', '(a) Delhi  (b) Paris (c) Rome (d) Berlin ', '(a) orange  (b) pink (c) Bule (d) Green ', '(a) 2020  (b) 2077 (c) 1918 (d) 1945', '(a) Nirvana (b) Gorillaz (c) Beatles (d) Black Sabath', '(a) Prince (b) Pewdiepie (C) M.jackson (d) Mario', '(a) Ironman (b) Robin (c) Dante (d) Gerlt', '(a) 1 (b) 7 (c) 0 (d) 168', '(a) 1111 (b)1947 (c)1952 (d) 1717', '(a) 7 (b) 0 (c) 14 (d) 5']
+The correct answers were: ['a', 'c', 'a', 'c', 'a', 'c', 'b', 'd', 'b', 'a'] 
+The answers given were: ['(a)', 0, 0, 0, 0, 0, 0, 0, 0, 0]
